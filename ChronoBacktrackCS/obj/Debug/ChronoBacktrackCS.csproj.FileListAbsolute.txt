@@ -1,0 +1,9 @@
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\ChronoBacktrackCS\ChronoBacktrackCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\ChronoBacktrackCS\ChronoBacktrackCS\obj\Debug\ChronoBacktrackCS.Properties.Resources.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\ChronoBacktrackCS\ChronoBacktrackCS\obj\Debug\ChronoBacktrackCS.csproj.GenerateResource.Cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\ChronoBacktrackCS\ChronoBacktrackCS\bin\Debug\ChronoBacktrackCS.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\ChronoBacktrackCS\ChronoBacktrackCS\bin\Debug\ChronoBacktrackCS.pdb
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\ChronoBacktrackCS\ChronoBacktrackCS\obj\Debug\ChronoBacktrackCS.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\ChronoBacktrackCS\ChronoBacktrackCS\obj\Debug\ChronoBacktrackCS.pdb
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\ChronoBacktrackCS\ChronoBacktrackCS\obj\Debug\ChronoBacktrackCS.ChronoBacktrackForm.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\ChronoBacktrackCS\ChronoBacktrackCS\obj\Debug\ChronoBacktrackCS.DrawSolutionForm.resources
